@@ -4,7 +4,7 @@ import "./App.css";
 const App = () => {
   return (
     <Card>
-      <h1>Hello World</h1>;
+      <h1>Hello World</h1>
     </Card>
   );
 };
